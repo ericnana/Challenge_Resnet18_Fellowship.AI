@@ -14,7 +14,7 @@ Use a pretrained ResNet 18 and train on the Flowers dataset and then visualize t
         sota: https://paperswithcode.com/sota/fine-grained-image-classification-on-oxford
         
  # What I did:
- Download the dataset and made sure to locate images to folders based on their class and type. Meaning for folder train(training) you have a class 1 containing images so basically train/100/image.jpg
+ Downloaded the dataset and made sure to locate images to folders based on their class and type. Meaning for folder train(training) you have a class 1 containing images so basically train/100/image.jpg
  
  
  # Results:
