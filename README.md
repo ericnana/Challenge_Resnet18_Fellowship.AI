@@ -17,6 +17,6 @@ Use a pretrained ResNet 18 and train on the Flowers dataset and then visualize t
  Download the dataset and made sure to locate images to folders based on their class and type. Meaning for folder train(training) you have a class 1 containing images so basically train/100/image.jpg
  
  
- # Results
+ # Results:
  I have tried to run the model using google colab with gpu but was not lucky enough and did it on my local computer and it was really slow and could not wait so long and just went basically at first with 3 epochs to see if things were working.
  Then did it with 1 epoch that's why the validation might look so bad. I guess I might need to do it with epoch of at least 150 to 300 epochs and playing with hyperparameters to see some improvement in the accuracy. I needed to hand the challenge today. Hopefully it is ok to have a fist glance at what I did in the first place.
